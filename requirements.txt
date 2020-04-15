@@ -17,7 +17,7 @@ jupyter-client==6.1.2
 jupyter-core==4.6.3
 kiwisolver==1.2.0
 matplotlib==3.2.1
-mkl-service==2.3.0
+# mkl-service==2.3.0
 numpy==1.18.1
 pandas==1.0.3
 parso==0.6.2
